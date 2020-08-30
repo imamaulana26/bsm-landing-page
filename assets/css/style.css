@@ -147,6 +147,17 @@
 		font-weight: bold;
 	}
 
+	.nav-link.active::after {
+		content: '';
+		display: block;
+		/* border-bottom: 3px solid #0B53DC; */
+		border-bottom: 3px solid #f96d01;
+		width: 50%;
+		margin: auto;
+		padding-bottom: 5px;
+		margin-bottom: -8px;
+	}
+
 	.jumbotron {
 		margin-top: -75px;
 		height: 650px;
