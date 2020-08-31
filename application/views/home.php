@@ -45,7 +45,7 @@
 				<div class="card-body d-flex flex-column">
 					<h5 class="card-title">Griya Simuda</h5>
 					<p class="card-text">Saat ini di Mandiri Syariah ada program ‘Griya SiMuda' yang bisa menjadi solusi untuk memiliki rumah impian dari range harga Rp 500 Jt - Rp 1,5 M.</p>
-					<a href="#" class="btn btn-primary mt-auto tombol">Cek Selengkapnya</a>
+					<a href="<?= site_url('detail') ?>" class="btn btn-primary mt-auto tombol">Cek Selengkapnya</a>
 				</div>
 			</div>
 		</div>
