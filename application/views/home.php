@@ -42,60 +42,60 @@
 		<div class="col-lg-4">
 			<div class="card">
 				<img src="<?= base_url('assets') . '/img/produk_1.jpg' ?>" class="card-img-top" alt="Griya Simuda">
-				<div class="card-body">
+				<div class="card-body d-flex flex-column">
 					<h5 class="card-title">Griya Simuda</h5>
 					<p class="card-text">Saat ini di Mandiri Syariah ada program ‘Griya SiMuda' yang bisa menjadi solusi untuk memiliki rumah impian dari range harga Rp 500 Jt - Rp 1,5 M.</p>
-					<a href="#" class="btn btn-primary tombol">Cek Selengkapnya</a>
+					<a href="#" class="btn btn-primary mt-auto tombol">Cek Selengkapnya</a>
 				</div>
 			</div>
 		</div>
 		<div class="col-lg-4">
 			<div class="card">
 				<img src="<?= base_url('assets') . '/img/produk_2.jpg' ?>" class="card-img-top" alt="Investasi Emas">
-				<div class="card-body">
+				<div class="card-body d-flex flex-column">
 					<h5 class="card-title">Investasi Emas</h5>
 					<p class="card-text">‪Kelola finansial dengan baik adalah hal yang harus kita lakukan. Jangan sampai pengeluaran kamu lebih besar daripada pendapatan.</p>
-					<a href="#" class="btn btn-primary tombol">Cek Selengkapnya</a>
+					<a href="#" class="btn btn-primary mt-auto tombol">Cek Selengkapnya</a>
 				</div>
 			</div>
 		</div>
 		<div class="col-lg-4">
 			<div class="card">
 				<img src="<?= base_url('assets') . '/img/produk_3.jpg' ?>" class="card-img-top" alt="Griya Berkah">
-				<div class="card-body">
+				<div class="card-body d-flex flex-column">
 					<h5 class="card-title">Griya Berkah</h5>
 					<p class="card-text">‪Daripada uang kamu habis buat design kosan atau kontrakan, mending uangnya kamu gunakan untuk mewujudkan rumah impian.</p>
-					<a href="#" class="btn btn-primary tombol">Cek Selengkapnya</a>
+					<a href="#" class="btn btn-primary mt-auto tombol">Cek Selengkapnya</a>
 				</div>
 			</div>
 		</div>
 		<div class="col-lg-4">
 			<div class="card">
-				<img src="<?= base_url('assets') . '/img/produk_1.jpg' ?>" class="card-img-top" alt="Griya Simuda">
-				<div class="card-body">
-					<h5 class="card-title">Griya Simuda</h5>
-					<p class="card-text">Saat ini di Mandiri Syariah ada program ‘Griya SiMuda' yang bisa menjadi solusi untuk memiliki rumah impian dari range harga Rp 500 Jt - Rp 1,5 M.</p>
-					<a href="#" class="btn btn-primary tombol">Cek Selengkapnya</a>
+				<img src="<?= base_url('assets') . '/img/produk_4.jpg' ?>" class="card-img-top" alt="Griya Simuda">
+				<div class="card-body d-flex flex-column">
+					<h5 class="card-title">Menabung Sambil Zakat</h5>
+					<p class="card-text">Berzakat itu mudah lho sabahat. Sembari mengelola tabungan kamu di Mandiri Syariah Mobile, kamu bisa langsung berzakat.</p>
+					<a href="#" class="btn btn-primary mt-auto tombol">Cek Selengkapnya</a>
 				</div>
 			</div>
 		</div>
 		<div class="col-lg-4">
 			<div class="card">
-				<img src="<?= base_url('assets') . '/img/produk_2.jpg' ?>" class="card-img-top" alt="Investasi Emas">
-				<div class="card-body">
-					<h5 class="card-title">Investasi Emas</h5>
-					<p class="card-text">‪Kelola finansial dengan baik adalah hal yang harus kita lakukan. Jangan sampai pengeluaran kamu lebih besar daripada pendapatan.</p>
-					<a href="#" class="btn btn-primary tombol">Cek Selengkapnya</a>
+				<img src="<?= base_url('assets') . '/img/produk_5.jpg' ?>" class="card-img-top" alt="Investasi Emas">
+				<div class="card-body d-flex flex-column">
+					<h5 class="card-title">QRIS Mandiri Syariah</h5>
+					<p class="card-text">Sekarang, bayar apa aja jadi mudah banget! Kamu tinggal scan aja pakai QRIS Mandiri Syariah.</p>
+					<a href="#" class="btn btn-primary mt-auto tombol">Cek Selengkapnya</a>
 				</div>
 			</div>
 		</div>
 		<div class="col-lg-4">
 			<div class="card">
-				<img src="<?= base_url('assets') . '/img/produk_3.jpg' ?>" class="card-img-top" alt="Griya Berkah">
-				<div class="card-body">
-					<h5 class="card-title">Griya Berkah</h5>
-					<p class="card-text">‪Daripada uang kamu habis buat design kosan atau kontrakan, mending uangnya kamu gunakan untuk mewujudkan rumah impian.</p>
-					<a href="#" class="btn btn-primary tombol">Cek Selengkapnya</a>
+				<img src="<?= base_url('assets') . '/img/produk_6.jpg' ?>" class="card-img-top" alt="Griya Berkah">
+				<div class="card-body d-flex flex-column">
+					<h5 class="card-title">Sobat Burekol</h5>
+					<p class="card-text">Buka rekening gak usah pake ribet, Sahabat. Kini, buka rekening bisa di mana aja dan kapan pun kamu mau. Gimana sih caranya?</p>
+					<a href="#" class="btn btn-primary mt-auto tombol">Cek Selengkapnya</a>
 				</div>
 			</div>
 		</div>
