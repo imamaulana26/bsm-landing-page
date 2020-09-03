@@ -39,7 +39,7 @@
 
 	<!-- Product -->
 	<div class="row product">
-		<div class="col-lg-4">
+		<!-- <div class="col-lg-4">
 			<div class="card">
 				<img src="<?= base_url('assets') . '/img/produk_1.jpg' ?>" class="card-img-top" alt="Griya Simuda">
 				<div class="card-body d-flex flex-column">
@@ -96,6 +96,26 @@
 					<h5 class="card-title">Sobat Burekol</h5>
 					<p class="card-text">Buka rekening gak usah pake ribet, Sahabat. Kini, buka rekening bisa di mana aja dan kapan pun kamu mau. Gimana sih caranya?</p>
 					<a href="#" class="btn btn-primary mt-auto tombol">Cek Selengkapnya</a>
+				</div>
+			</div>
+		</div> -->
+		<div class="col-lg-4">
+			<div class="card">
+				<img src="<?= base_url('assets') . '/img/semple-1.jpg' ?>" class="card-img-top" alt="Pembiayaan Beragunan Emas">
+				<div class="card-body d-flex flex-column">
+					<h5 class="card-title">Pembiayaan Beragunan Emas</h5>
+					<p class="card-text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Excepturi dolorum perferendis libero enim corrupti aliquam. Ratione voluptas culpa eos?</p>
+					<a href="<?= site_url('detail') ?>" class="btn btn-primary mt-auto tombol">Cek Selengkapnya</a>
+				</div>
+			</div>
+		</div>
+		<div class="col-lg-4">
+			<div class="card">
+				<img src="<?= base_url('assets') . '/img/semple-2.jpg' ?>" class="card-img-top" alt="Pembiayaan Multiguna">
+				<div class="card-body d-flex flex-column">
+					<h5 class="card-title">Pembiayaan Multiguna</h5>
+					<p class="card-text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Excepturi dolorum perferendis libero enim corrupti aliquam. Ratione voluptas culpa eos?</p>
+					<a href="" class="btn btn-primary mt-auto tombol">Cek Selengkapnya</a>
 				</div>
 			</div>
 		</div>
