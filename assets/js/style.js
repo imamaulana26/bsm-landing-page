@@ -11,8 +11,13 @@ $(window).scroll(function () {
 					$('.product .card').eq(i).addClass('show');
 				}, 1000 * (i + 1));
 			});
+
+			setTimeout(function () {
+				$('.more_btn').addClass('show');
+			}, 1000 * ($('.product .card').length + 1));
 		} else {
 			$('.float').removeClass('show');
+			// $('#more_btn').removeClass('show');
 		}
 	} else { // desktop view
 		if (scroll > 300) {
@@ -23,8 +28,14 @@ $(window).scroll(function () {
 					$('.product .card').eq(i).addClass('show');
 				}, 500 * (i + 1));
 			});
+
+			setTimeout(function () {
+				$('.more_btn').addClass('show');
+			}, 500 * ($('.product .card').length + 1));
+
 		} else {
 			$('.float').removeClass('show');
+			// $('#more_btn').removeClass('show');
 		}
 	}
 });

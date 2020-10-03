@@ -9,7 +9,7 @@
          <div class="navbar-nav ml-auto">
             <a class="nav-item nav-link" href="<?= site_url('home') ?>">Home</a>
             <a class="nav-item nav-link" href="<?= site_url('pricing') ?>">Pricing</a>
-            <a class="nav-item nav-link" href="">Features</a>
+            <a class="nav-item nav-link" href="">Product</a>
             <a class="nav-item nav-link" href="">About</a>
             <a class="nav-item btn btn-primary tombol" href="#">Join Us</a>
          </div>
